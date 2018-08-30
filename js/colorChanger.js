@@ -44,9 +44,5 @@ function generateRandomNumber(){
 
 //Change Color of Div Background
 function changeColor(){
-	/*console.log(redColorValue);
-	console.log(greenColorValue);
-	console.log(blueColorValue);*/
-
 	divBgColor.style.backgroundColor = "rgb(" + redColorValue + ',' + greenColorValue + ',' + blueColorValue + ")";
 }
